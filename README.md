@@ -9,6 +9,12 @@ Clone the project and run to demo.
 
 Two dependent files are needed to loader (RectUIView.swift and ABLoader.swift)
 
+Customization paramters
+
+loaderColor
+loaderSize
+loaderVAnchor
+
 ## Usage
 
 TODO: Write usage instructions
