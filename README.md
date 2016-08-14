@@ -1,7 +1,7 @@
 
-# Simple, dynamic activity loader
+# ABLoader
 
-TODO: Write a project description
+Simple, dynamic activity loader
 
 ## Installation
 
