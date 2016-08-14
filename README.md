@@ -14,7 +14,7 @@ Two dependent files are needed to loader (RectUIView.swift and ABLoader.swift)
 TODO: Write usage instructions
 
 ## Demo
-[![Demo ABLoader simple](https://j.gifs.com/4xoBv7.gif)]
+[![Demo ABLoader simple](https://j.gifs.com/4xoBv7.gif)
 
 ## Contributing
 
